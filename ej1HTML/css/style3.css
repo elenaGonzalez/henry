@@ -1,0 +1,19 @@
+     body{
+        font-family: 'Merriweather', serif;
+        }
+    .contenido{
+           align-items: center;
+           margin: 3%;
+           padding-top: 5%;
+           padding-left: 30%;
+           padding-right:30%;
+           padding-bottom: 10%;
+           padding-left: 30%;
+
+           border: 2px solid;
+           }
+    h1{
+        color: deeppink;
+        font-size: 3em;
+    }
+    
